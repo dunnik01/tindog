@@ -1,0 +1,196 @@
+#title{
+background-color: #ff4c68;
+color: #ffff;
+padding-left: 100px;
+padding-right: 100px;
+
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+.navbar navbar-expand-lg navbar-dark{
+  margin-top: 100px;
+  line-height: 4;
+}
+.navbar{
+  margin-right: 100px;
+  padding-bottom: 4.5rem;
+  color: #ffff;
+}
+.col-md-6 col-sm-12{
+   position: absolute;
+  transform :rotate(20deg);
+  transform-origin: 20% 40%;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand{
+font-family: 'Ubuntu', sans-serif;
+font-size : 2.5rem;
+font-weight: bold;
+margin-left: 0;
+}
+.nav-item{
+  padding-right: 2rem;
+}
+.nav-link{
+  font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.buttons{
+  padding-top: 100px;
+}
+.title-image{
+  width:60%;
+  transform: rotate(25deg);
+
+
+}
+
+#features{
+  padding-top: 200px;
+  padding-left:100px;
+  padding-right:100px;
+  padding-bottom:100px;
+  text-align: center;
+
+
+  background-color: #ffff;
+}
+#featuresrow{
+text-align: center;
+
+
+}
+h3{
+font-weight: bold;
+font-family: 'Montserrat', sans-serif;
+}
+.icon{
+  font-size : 2.5rem;
+  border-radius: 100%;
+align-content: center;
+
+color: #ef8172;
+margin-bottom: 1rem;
+
+}
+.icon:hover{
+  color: #ff4c68;
+
+}
+.feature-para{
+  color:#8f8f8f;
+}
+/* Testimonials */
+#testimonials{
+
+  background-color : #ef8172;
+  text-align: center;
+}
+.testimonial-image{
+  border-radius :100%;
+  width:10%;
+  margin:20px;
+}
+#press{
+background-color : #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width:10%;
+
+  margin:20px 20px 50px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+  padding:100px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.plans{
+  padding-bottom: 100px;
+}
+.card-body{
+  text-align: center;
+  padding-bottom: 10%;
+  height: 350px;
+}
+.pricing-card{
+  padding 3% 2%;
+
+}
+.prize-btn{
+  background-color : #ef8172;
+    border-color: #ef8172;
+}
+.prize-btn-outline{
+    border-color: #ef8172;
+}
+.card-header{
+  background-color : #ef8172;
+  opacity: 50%;
+  color: black;
+}
+@media (max-width: 900px){
+  .title-image{
+      transform: rotate(0deg);
+padding-top: 100px;
+padding-bottom: 100px;
+  }
+  .title-head{
+    text-align: center;
+  }
+}
+.card-body-small{
+  padding-bottom: 40px;
+}
+/* cta */
+#cta{
+  text-align: center;
+  background-color: #ff4c68;
+  color: #ffff;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom:200px;
+  padding-top: 200px;
+
+}
+.cta-head{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 100px;
+font-weight: bold;
+}
+/* footer */
+#footer{
+  text-align: center;
+  background-color: #ffff;
+  color: grey;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.footer{
+  padding-left: 25px;
+  padding-right:25px;
+  padding-bottom:50px;
+
+}
